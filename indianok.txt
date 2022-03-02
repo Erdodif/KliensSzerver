@@ -1,0 +1,22 @@
+Őrült Ló;Apache;f;20;tomahawk;íj;mokaszin
+Cochise;Apache;f;32;tomahawk;tűzszerszám;mokaszin;íj
+Fekete Bivaly;Apache;f;12;dob;íj;mokaszin
+Geronimo;Apache;f;67;tomahawk;békepipa
+Könnyű Felhő;Apache;n;24;íj
+Wahtavah;Apache;n;31;mokaszin
+Bátor Sólyom;Seminole;f;19;tomahawk;mokaszin;tűzszerszám
+Ravasz Menyét;Seminole;f;12;dob;íj;mokaszin
+Vörös Felhő;Seminole;f;38;tűzszerszám;íj;békepipa
+Meleg Eső;Seminole;n;17;tomahawk;íj;mokaszin
+Ülő Bika;Sioux;f;72;tomahawk;puska;békepipa
+Égi Párduc;Sioux;f;44;tomahawk;íj
+Fekete Sólyom;Sioux;f;51;tomahawk;mokaszin
+Pocahontas;Sioux;n;17;mokaszin;tűzszerszám
+Sárga Virág;Huron;n;12;tűzszerszám;dob;mokaszin
+Mérges Darázs;Huron;f;33;tomahawk;íj;mokaszin
+Vörös Csillag;Huron;n;45;tomahawk;tűzszerszám;békepipa
+Eső Szavú;Huron;n;11;mokaszin
+Lyukas Hordó;Huron;f;63;tűzszerszám;íj
+Hangos Talpú;Iroquois;f;11;tűzszerszám;íj;mokaszin
+Vörös Róka;Iroquois;f;29;dob;íj;békepipa
+Lassú Bivaly;Iroquois;f;22;békepipa;íj;mokaszin
